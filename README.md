@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andyj-wallace
-- 👀 I’m interested in football (⚽️) data, Kotlin and JAVA.
-- 🌱 I’m currently learning JavaScript, React, MongoDB.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in football (⚽️) data, web development and mobile dev.
+- 🌱 I’m currently learning JavaScript & React then evenutally python.
+- 💞️ I’m looking to collaborate on ... anything really
 - 📫 How to reach me = awallace.anthony@gmail.com
 
 <!---
