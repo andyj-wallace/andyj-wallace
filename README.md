@@ -3,7 +3,7 @@
 Software Engineer, mobile development (Java/Kotlin). Now focused on backend architecture, infrastructure design, and scalable cloud deployments.
 
 📫  awallace.anthony@gmail.com
-
+---
 ### Projects
 
 Debt Tracker 🚀 Featured Project
@@ -16,7 +16,7 @@ Debt Tracker 🚀 Featured Project
 - Cost-aware infrastructure decisions
 
 Focused on reliability, observability, and clean separation between frontend and backend concerns.
-
+---
 ### Technical Stack
 
 Languages
@@ -40,8 +40,7 @@ Backend
 - Data modeling
 - Linux fundamentals
 - Networking basics
-
-
+---
 ### 🔭 Current Learning Focus
 
 - Designing scalable and cost-efficient AWS architectures
